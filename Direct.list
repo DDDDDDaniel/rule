@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,hao123.com
 #DOMAIN-SUFFIX,steamusercontent.com
 #DOMAIN-SUFFIX,steamcontent.com
 #DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,akamaihd.net
+#DOMAIN-SUFFIX,akamaihd.net
 
 GEOSITE,category-games@cn,DIRECT
 #DOMAIN-SUFFIX,steamserver.net,DIRECT
