@@ -2,19 +2,20 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com,DIRECT
-DOMAIN-SUFFIX,lanzov.com,DIRECT
-DOMAIN-SUFFIX,hao123.com,DIRECT
-DOMAIN-SUFFIX,steampowered.com,DIRECT
-DOMAIN-SUFFIX,steamgames.com,DIRECT
-DOMAIN-SUFFIX,steamusercontent.com,DIRECT
-DOMAIN-SUFFIX,steamcontent.com,DIRECT
-DOMAIN-SUFFIX,steamstatic.com,DIRECT
-DOMAIN-SUFFIX,akamaihd.net,DIRECT
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steambroadcast.akamaized.net
 
 GEOSITE,category-games@cn,DIRECT
-DOMAIN-SUFFIX,steamserver.net,DIRECT
-DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+
 IP-CIDR,45.121.184.0/24,DIRECT
 IP-CIDR,103.10.124.0/23,DIRECT
 IP-CIDR,103.28.54.0/24,DIRECT
